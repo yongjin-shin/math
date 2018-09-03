@@ -1,2 +1,3 @@
 # math
-lang c++/matlab
+lang matlab
+Numerical Analysis
